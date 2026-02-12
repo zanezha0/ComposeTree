@@ -1,5 +1,9 @@
 # Compose 树形结构
 
+### 截图
+    <img src="https://github.com/zanezha0/ComposeTree/blob/master/img/Screenshot_20260212_145310.png" width="300">
+    <img src="https://github.com/zanezha0/ComposeTree/blob/master/img/Screenshot_20260212_145526.png" width="300">
+
 ### Usage
 ```kotlin
  val treeState = remember { TreeState(nodes) }
@@ -24,4 +28,7 @@ TreeLazyColumn(
     )
 }
 ```
+
+
+
 
