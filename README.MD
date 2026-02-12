@@ -1,7 +1,10 @@
-# Compose 树形结构
+# Compose 树形列表
+
+##  支持上万的数据的树形列表
 
 ### 截图
     ![截图1](https://github.com/zanezha0/ComposeTree/blob/master/img/Screenshot_20260212_145310.png?raw=true)
+
     ![截图2](https://github.com/zanezha0/ComposeTree/blob/master/img/Screenshot_20260212_145526.png?raw=true)
 
 
