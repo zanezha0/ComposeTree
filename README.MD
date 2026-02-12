@@ -1,9 +1,8 @@
 # Compose 树形结构
 
 ### 截图
-    ![截图1](https://github.com/zanezha0/ComposeTree/blob/master/img/Screenshot_20260212_145310.png)
-    ![截图2](https://github.com/zanezha0/ComposeTree/blob/master/img/Screenshot_20260212_145526.png)
-
+    ![截图1](https://raw.githubusercontent.com/zanezha0/ComposeTree/blob/master/img/Screenshot_20260212_145310.png)
+    ![截图2](https://raw.githubusercontent.com/zanezha0/ComposeTree/blob/master/img/Screenshot_20260212_145526.png)
 ### Usage
 ```kotlin
  val treeState = remember { TreeState(nodes) }
