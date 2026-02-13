@@ -7,6 +7,9 @@
 
     ![截图2](https://github.com/zanezha0/ComposeTree/blob/master/img/Screenshot_20260212_145526.png?raw=true)
 
+    ![截图3](https://raw.githubusercontent.com/zanezha0/ComposeTree/master/img/Screenshot_20260212_145526.png)
+    ![截图4](https://raw.githubusercontent.com/zanezha0/ComposeTree/master/img/Screenshot_20260212_145310.png)
+
 
 ### Usage
 ```kotlin
